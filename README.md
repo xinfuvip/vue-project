@@ -1,3 +1,2 @@
 # vue-project
-一个关于vue项目的小练习。
-123
+关于Vue项目：音乐App。

@@ -14,17 +14,12 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0-rc.10",
-    "@vue/cli-plugin-typescript": "^3.0.0-rc.10",
+    "@vue/cli-plugin-eslint": "^3.0.0-rc.10",
     "@vue/cli-service": "^3.0.0-rc.10",
+    "@vue/eslint-config-standard": "^3.0.0-rc.10",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
-    "typescript": "^3.0.0",
     "vue-template-compiler": "^2.5.16"
-  },
-  "postcss": {
-    "plugins": {
-      "autoprefixer": {}
-    }
   },
   "browserslist": [
     "> 1%",
