@@ -1,0 +1,8 @@
+
+.idea/vcs.xml
+.DS_Store
+.idea/modules.xml
+*.iml
+*.xml
+music-app/node_modules/.bin/acorn
+
